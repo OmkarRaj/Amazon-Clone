@@ -1,0 +1,12 @@
+.checkout{
+    display: flex;
+    background-color: white;
+    height: max-content;
+}
+
+
+.checkout__basketInfo{
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
